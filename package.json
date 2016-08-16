@@ -12,8 +12,5 @@
     "angular"
   ],
   "author": "Zan",
-  "license": "MIT",
-  "devDependencies": {
-    "postcss-modules-values": "^1.2.2"
-  }
+  "license": "MIT"
 }
