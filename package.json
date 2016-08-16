@@ -1,0 +1,19 @@
+{
+  "name": "css-module-demos",
+  "version": "1.0.0",
+  "description": "css modules jade angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css-modules",
+    "jade",
+    "angular"
+  ],
+  "author": "Zan",
+  "license": "MIT",
+  "devDependencies": {
+    "postcss-modules-values": "^1.2.2"
+  }
+}

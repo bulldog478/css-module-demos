@@ -1,0 +1,23 @@
+{
+  "name": "interpolate",
+  "version": "1.0.0",
+  "description": "this is an example for html interpolate to along with css-modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "interpolate",
+    "css-modules",
+    "webpack"
+  ],
+  "author": "Zan",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "html-loader": "^0.4.3",
+    "lite-server": "^2.2.2",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1"
+  }
+}
